@@ -21,6 +21,9 @@ A backend system built with **Spring Boot** and **RESTful APIs** to manage cours
 ### 🤖 Intelligent Email Reply Assistant
 An AI-powered Spring Boot application that generates context-aware replies to incoming emails automatically.
 
+### E-commerce Microservices Application
+This repository contains a basic-featured e-commerce application built using a microservices architecture. It demonstrates key patterns and technologies for building robust, scalable, and maintainable distributed systems. The system includes services for managing products, inventory, and orders, along with asynchronous notifications, service discovery, a centralized API gateway, and distributed tracing.
+
 > Check out more on my portfolio: [🌐 dhanush-portfolio](https://hlwgx9qn32.app.youware.com/)
 
 ---
