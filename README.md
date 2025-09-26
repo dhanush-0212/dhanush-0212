@@ -24,7 +24,7 @@ An AI-powered Spring Boot application that generates context-aware replies to in
 ### E-commerce Microservices Application
 This repository contains a basic-featured e-commerce application built using a microservices architecture. It demonstrates key patterns and technologies for building robust, scalable, and maintainable distributed systems. The system includes services for managing products, inventory, and orders, along with asynchronous notifications, service discovery, a centralized API gateway, and distributed tracing.
 
-> Check out more on my portfolio: [🌐 dhanush-portfolio]((https://dhanush-s-software-devel-gkbaw16.gamma.site/))
+> Check out more on my portfolio: [🌐 dhanush-portfolio](https://dhanush-s-software-devel-gkbaw16.gamma.site/)
 
 ---
 
